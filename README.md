@@ -29,3 +29,7 @@ Water: Maximum 400 units
 # Objective Function
 Maximize profit:
 Z = 200W + 300C
+# Sources
+U.S. Department of Agriculture. (2023). Crop Production Costs and Returns. Retrieved from https://www.ers.usda.gov
+
+University of Illinois Extension. (2023). Estimated Costs and Profits of Growing Corn and Wheat. Retrieved from https://farmdoc.illinois.edu
